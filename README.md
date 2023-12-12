@@ -1,2 +1,2 @@
 # Google Maps
-Mapa hecho con la API de Google Maps.
+Mapa hecho con HTML plano que utiliza la API de Google Maps.
